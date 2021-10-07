@@ -1,0 +1,20 @@
+{
+    "openFiles": [
+        "nqueens_r.mzn",
+        "nqueens_rc.mzn",
+        "nqueens_rc_min.mzn",
+        "nqueens_alldiff.mzn",
+        "nqueens_alldiffsym.mzn"
+    ],
+    "openTab": 4,
+    "projectFiles": [
+        "config.mpc",
+        "nqueens_alldiff.mzn",
+        "nqueens_alldiffsym.mzn",
+        "nqueens_r.mzn",
+        "nqueens_rc.mzn",
+        "nqueens_rc_min.mzn"
+    ],
+    "selectedSolverConfigFile": "config.mpc",
+    "version": 106
+}

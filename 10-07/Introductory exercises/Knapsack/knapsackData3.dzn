@@ -1,0 +1,8 @@
+ITEM = {item1, item2, item3, item4, item5, item6, item7};
+
+capacity=50;
+
+profits = [70, 20, 39, 37, 7, 5, 10];
+weights = [31, 10, 20, 19, 4, 3, 6];
+
+%opt = 107

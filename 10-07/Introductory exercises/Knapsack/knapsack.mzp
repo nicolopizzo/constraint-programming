@@ -1,0 +1,22 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "knapsack.mzn",
+        "knapsackData3.dzn",
+        "knapsackData2.dzn",
+        "knapsackData1.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "knapsack.mzn",
+        "knapsackData1.dzn",
+        "knapsackData2.dzn",
+        "knapsackData3.dzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.1",
+    "version": 105
+}

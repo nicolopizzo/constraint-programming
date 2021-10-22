@@ -1,0 +1,16 @@
+{
+    "openFiles": [
+        "nurse_data1.dzn",
+        "nurse_data2.dzn",
+        "nurse_rostering.mzn"
+    ],
+    "openTab": 2,
+    "projectFiles": [
+        "nurse_data1.dzn",
+        "nurse_data2.dzn",
+        "nurse_rostering.mzn",
+        "solver.mpc"
+    ],
+    "selectedSolverConfigFile": "solver.mpc",
+    "version": 106
+}

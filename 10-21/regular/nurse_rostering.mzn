@@ -30,7 +30,7 @@ array[NURSE,DAY] of var SHIFT: roster;
 
 % globalize the first two sums constraints
 constraint forall(j in DAY) (
-  distribute([req_day, req_night], [d, n], [roster[i,j] | i in NURSE])
+    global_cardinality([roster[i,j] | i in NURSE], [d,n], [req_day, req_night])
 );
 
 % globalize the third sum constraint

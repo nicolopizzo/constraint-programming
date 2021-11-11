@@ -1,0 +1,17 @@
+{
+    "openFiles": [
+        "qcp.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "qc30-03.dzn",
+        "qc30-05.dzn",
+        "qc30-08.dzn",
+        "qc30-12.dzn",
+        "qc30-19.dzn",
+        "qcp.mzn",
+        "solver.mpc"
+    ],
+    "selectedSolverConfigFile": "solver.mpc",
+    "version": 106
+}

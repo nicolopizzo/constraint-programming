@@ -1,0 +1,20 @@
+{
+    "openFiles": [
+        "omc.mzn",
+        "gtiny.dzn",
+        "david.dzn",
+        "huck.dzn",
+        "myciel5.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "david.dzn",
+        "gtiny.dzn",
+        "huck.dzn",
+        "myciel5.dzn",
+        "omc.mzn",
+        "solver.mpc"
+    ],
+    "selectedSolverConfigFile": "solver.mpc",
+    "version": 106
+}

@@ -1,0 +1,5 @@
+colors = 3; % Max number of colors  %optimal value is 3
+n = 5;      % Number of nodes
+e = 7;      % Number of edges
+start = [1,1,2,2,2,3,4]; % Starting node of an edge j
+end   = [2,3,3,4,5,4,5]; % Ending node of an edge j

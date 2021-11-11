@@ -1,0 +1,29 @@
+qc30-03
+-------
+default: 1,903,665 time > 5m
+domWdeg + random: 1,495,755 time=3m 34s
+domWdeg + random + luby restart: 1,090,634 time=2m 53s
+
+qc30-05
+-------
+default: 1,167,530 time=3m 16s
+domWdeg + random: 7,163 time=1.384s
+domWdeg + random + luby restart: 362,702 time=57.017s
+
+qc30-08
+-------
+default: 1,250 time=411ms
+domWdeg + random: 4,398 time=1s
+domWdeg + random + luby restart: 53,324 time=9.462s
+
+qc30-12
+-------
+default: 230,082 time=35.111s
+domWdeg + random: 47,036 time=8.343s
+domWdeg + random + luby restart: 13,104 time=2.517s
+
+qc30-19
+-------
+default: 773,526 time=3m 26s
+domWdeg + random: 1,041,725 time > 5m
+domWdeg + random + luby restart: 1,446,807 time > 5m

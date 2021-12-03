@@ -1,0 +1,12 @@
+{
+    "openFiles": [
+        "optimal-queens.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "optimal-queens.mzn",
+        "solver.mpc"
+    ],
+    "selectedSolverConfigFile": "solver.mpc",
+    "version": 106
+}
